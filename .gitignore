@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+move_history.json
+
+.venv/
+venv/
